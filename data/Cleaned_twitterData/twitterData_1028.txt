@@ -1,0 +1,1 @@
+ In fairness, this demo is pretty ballsy #OpenStackSummit Next up, installing Openstack in real-time... on a raspberry pi. IoT fridge... all of this dev work, to tell you that you need more milk.*+*0:0*+*2*+*[0.7575757575757576, 0.24242424242424243]*+*0*+*

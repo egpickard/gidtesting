@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  color: white;
+}
+
+.App-logo {
+  height: 7vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  /* #282c34 */
+  background-color: #282c34 !important;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.file-upload {
+  background-color: #282c34;
+}
+
+button {
+  background-color: #1976d2;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  height: 50px;
+  width: 150px;
+}
+
+p {
+  font-weight: bold;
+  -webkit-text-stroke: 0.09px black;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}

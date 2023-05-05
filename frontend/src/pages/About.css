@@ -1,0 +1,34 @@
+.about-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.about-img {
+  flex: 0 0 auto;
+  width: 350px;
+  height: auto;
+  margin-right: 20px;
+  padding: 20px;
+  align-self: flex-start;
+}
+
+.about-text {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.about-text p {
+  margin: 0;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.about-text a {
+  margin-top: auto;
+  color: white;
+}

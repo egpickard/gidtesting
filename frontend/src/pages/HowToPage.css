@@ -1,0 +1,107 @@
+/* HowToPage.css */
+
+/* Container for the entire how-to page */
+.how-to-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+}
+
+/* Title for the how-to page */
+.how-to-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #007bff;
+}
+
+/* Description for the how-to page */
+.how-to-description {
+  font-size: 18px;
+  color: #fff;
+  margin-bottom: 40px;
+}
+
+/* Container for the steps */
+.step-container {
+  display: flex;
+  justify-content: center;
+  color: #fff;
+  align-items: center;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+  margin-bottom: 60px;
+}
+
+/* Individual step */
+.step {
+  flex: 1;
+  padding: 0 20px;
+}
+
+/* Image for the step */
+.step-image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Title for the step */
+.step-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Description for the step */
+.step-description {
+  font-size: 16px;
+  color: #fff;
+}
+
+/* Container for the CTA */
+.cta-container {
+  margin-bottom: 40px;
+}
+
+/* Title for the CTA */
+.cta-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+/* Description for the CTA */
+.cta-description {
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+/* CTA button */
+.cta-button {
+  padding: 12px 24px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect for CTA button */
+.cta-button:hover {
+  background-color: #0056b3;
+}
+
+.my-link {
+  color: #fff;
+}

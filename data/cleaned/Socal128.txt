@@ -1,0 +1,10 @@
+1 : hi, corona here
+1 : u there?
+2 : sup
+1 : no much, u?
+2 : bored
+2 : how old ru
+1 : 42, that ok?
+2 : u luk that old?
+1 : been told i look cool
+2 : no message

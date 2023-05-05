@@ -1,0 +1,1 @@
+ Answer me this fellow Apple peoples: how many times in the past year have you used the escape key? about 50 times today. Terminal vim user. Seems the major complaints so far are from VIM users like yourself. I’m wondering how force quit is gonna work. cmd+opt+esc is good but still available via menubar*+*0:0*+*2*+*[0.7222222222222222, 0.2777777777777778]*+*0*+*

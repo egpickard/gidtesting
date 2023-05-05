@@ -1,0 +1,43 @@
+.chatwindow {
+  background-color: lightcyan;
+  width: 50%;
+  margin: auto;
+  border-radius: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  max-height: 300px;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column-reverse;
+}
+.styled-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.styled-list li {
+  position: relative;
+  padding-left: 10px;
+  margin: 5px;
+}
+.left-sender-list-item {
+  padding-left: 10px;
+  text-align: left;
+  padding-right: 0;
+}
+.right-sender-list-item {
+  padding-right: 10px;
+  text-align: right;
+  padding-left: 0;
+}
+/* .styled-list li:nth-child(even) {
+  padding-right: 10px;
+  text-align: right;
+  padding-left: 0;
+}
+.styled-list li:nth-child(odd) {
+  padding-left: 10px;
+  text-align: left;
+  padding-right: 0;
+} */

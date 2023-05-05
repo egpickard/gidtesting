@@ -1,0 +1,31 @@
+.box {
+  background-color: aqua;
+  color: black;
+  display: inline-block;
+  border-radius: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  max-width: 400px;
+}
+
+._1 {
+  background-color: aqua;
+}
+
+._2 {
+  background-color: rgb(243, 100, 100);
+}
+
+._3 {
+  background-color: rgb(226, 59, 255);
+}
+
+._4 {
+  background-color: rgb(255, 252, 81);
+}
+
+._5 {
+  background-color: rgb(4, 173, 7);
+}
+
+

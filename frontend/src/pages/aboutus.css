@@ -1,0 +1,38 @@
+.about-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+}
+
+.about-item {
+  width: 200px;
+  height: 400px;
+  margin: 10px;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-item img {
+  width: 100%;
+  height: auto;
+  align-items: center;
+  display: flex;
+  border-radius: 10%;
+}
+
+.about-description {
+  margin-top: 10px;
+  color: white;
+}
+
+.team-header {
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  color: white;
+}

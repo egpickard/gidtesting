@@ -1,0 +1,7 @@
+{
+    "data":{
+        "convo":[],
+        "number_participants":0,
+        "start_time":"00:00"
+    }
+}
